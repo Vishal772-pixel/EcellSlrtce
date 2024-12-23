@@ -15,7 +15,6 @@ function App() {
 
       <HeroSection></HeroSection>
 
-      <Numbers></Numbers>
 
       <AboutUs></AboutUs>
 
