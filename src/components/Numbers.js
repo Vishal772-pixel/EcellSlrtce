@@ -63,7 +63,7 @@ export const Numbers=()=> {
             alt="Description"
             loading="lazy"
           />
-          <AnimatedNumber start={1} end={8} />
+          <AnimatedNumber start={1} end={4} />
           <p className="m-auto text-2xl">Colleges</p>
         </div>
 
