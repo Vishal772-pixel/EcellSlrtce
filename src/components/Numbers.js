@@ -53,7 +53,7 @@ const AnimatedNumber = ({ start, end, duration = 2000 }) => {
 
 export const Numbers=()=> {
   return (
-    <div id="numbers" className="bg-gray-300 flex w-full md:h-[60vh] p-[4%]" id="stats">
+    <div id="numbers" className="bg-gray-300 flex w-full md:h-[20vh] p-[4%]" id="stats">
       <div className="flex w-full flex-col md:flex-row bg-pink-100 rounded-3xl">
         {/* College Section */}
         <div className="flex flex-col m-auto h-[60%]">
