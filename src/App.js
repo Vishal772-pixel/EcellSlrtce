@@ -20,8 +20,10 @@ function App() {
       <AboutUs></AboutUs>
 
       <Events></Events>
+  
+      <Numbers></Numbers>
 
-      {/* <Renaissance></Renaissance> */}
+       <Renaissance></Renaissance>
 
       {/* <StartUps></StartUps> */}
       <AutoPlay></AutoPlay>
