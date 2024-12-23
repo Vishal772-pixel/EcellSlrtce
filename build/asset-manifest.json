@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6924a0df.css",
+    "main.js": "/static/js/main.98a3cbcb.js",
+    "static/js/787.659e3a85.chunk.js": "/static/js/787.659e3a85.chunk.js",
+    "static/media/beautiful-manhattan-s-river-sunset.jpg": "/static/media/beautiful-manhattan-s-river-sunset.ef4f8aa55370526856a2.jpg",
+    "static/media/6.jpg": "/static/media/6.f255af691d33c433ecbd.jpg",
+    "static/media/3.jpg": "/static/media/3.aa7124e8564e0f42d0a1.jpg",
+    "static/media/5.jpg": "/static/media/5.5290ea37137cda76d78e.jpg",
+    "static/media/1.jpg": "/static/media/1.bcb02a7fc80323a16644.jpg",
+    "static/media/2.jpg": "/static/media/2.310a87ac4ee55fcc886b.jpg",
+    "static/media/4.jpg": "/static/media/4.f9d1b3ebd253cbd3663b.jpg",
+    "static/media/college.svg": "/static/media/college.2478a2c9c500685f7405f1bcc24d75e4.svg",
+    "static/media/contact.svg": "/static/media/contact.669997f87af7d65daddd6266ebd5aa69.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/participants.svg": "/static/media/participants.ec2321655d0fc4bcffc981caa7609a90.svg",
+    "static/media/speaker.svg": "/static/media/speaker.3f50e4656143354352e9be6c2324923e.svg",
+    "static/media/startups.svg": "/static/media/startups.51eb08d59119f16015124445ae70d94a.svg",
+    "index.html": "/index.html",
+    "static/media/email.svg": "/static/media/email.40f2ea41cd33715a9bd796d84fdd6254.svg",
+    "static/media/location.svg": "/static/media/location.9a61073353d6a148c98f9d2a99371994.svg",
+    "static/media/front.svg": "/static/media/front.9286e0e32c27d6a04222c3f4309f0ebb.svg",
+    "static/media/back.svg": "/static/media/back.881214b4817d5017e199ce74d73e0f1e.svg",
+    "static/media/cross.svg": "/static/media/cross.18b8a4a92ec3102b37e1584e20e37d94.svg",
+    "main.6924a0df.css.map": "/static/css/main.6924a0df.css.map",
+    "main.98a3cbcb.js.map": "/static/js/main.98a3cbcb.js.map",
+    "787.659e3a85.chunk.js.map": "/static/js/787.659e3a85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6924a0df.css",
+    "static/js/main.98a3cbcb.js"
+  ]
+}
