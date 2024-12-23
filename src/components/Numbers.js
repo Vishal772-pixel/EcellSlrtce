@@ -63,7 +63,7 @@ export const Numbers=()=> {
             alt="Description"
             loading="lazy"
           />
-          <AnimatedNumber start={1} end={80} />
+          <AnimatedNumber start={1} end={8} />
           <p className="m-auto text-2xl">Colleges</p>
         </div>
 
@@ -75,7 +75,7 @@ export const Numbers=()=> {
             alt="Description"
             loading="lazy"
           />
-          <AnimatedNumber start={1} end={1500} />
+          <AnimatedNumber start={1} end={80} />
           <p className="m-auto text-2xl">Participants</p>
         </div>
 
@@ -87,7 +87,7 @@ export const Numbers=()=> {
             alt="Description"
             loading="lazy"
           />
-          <AnimatedNumber start={1} end={120} />
+          <AnimatedNumber start={1} end={35} />
           <p className="m-auto text-2xl">Startups</p>
         </div>
 
@@ -99,7 +99,7 @@ export const Numbers=()=> {
             alt="Description"
             loading="lazy"
           />
-          <AnimatedNumber start={1} end={40} />
+          <AnimatedNumber start={1} end={9} />
           <p className="m-auto text-2xl">Speakers</p>
         </div>
       </div>
