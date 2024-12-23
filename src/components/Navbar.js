@@ -46,7 +46,7 @@ export const Navbar = () => {
           style={{ transitionDuration: '0.5s' }}
         >
           <div className="flex justify-between mb-10 mt-4">
-            <h2 className="text-2xl text-white font-bold">ECELL MNNIT</h2>
+            <h2 className="text-2xl text-white font-bold">ECELL Slrtce</h2>
             <button className="text-white" onClick={toggleMenu}>
               <svg
                 className="h-6 w-6"
