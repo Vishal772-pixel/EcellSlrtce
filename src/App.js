@@ -15,16 +15,17 @@ function App() {
 
       <HeroSection></HeroSection>
 
-
+  
+      <Numbers></Numbers>
       <AboutUs></AboutUs>
 
       <Events></Events>
   
-      <Numbers></Numbers>
+
 
        <Renaissance></Renaissance>
 
-      {/* <StartUps></StartUps> */}
+       <StartUps></StartUps> 
       <AutoPlay></AutoPlay>
 
       <LinesOfApp></LinesOfApp>
